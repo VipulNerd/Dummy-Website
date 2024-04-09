@@ -227,3 +227,71 @@ body {
     color: white;
     font-family: Arial, sans-serif;
 }
+
+#share {
+    margin-top: 20px;
+    box-shadow: 2px 2px 2px #45a049;
+}
+
+.text {
+    font-size: 20px;
+    color: #45a049;
+}
+
+.mail,
+.wa,
+.fb,
+.x,
+.pin,
+.li {
+    margin: 50px;
+}
+
+.fb {
+    color: rgb(50, 50, 182);
+    font-size: 50px;
+}
+
+.wa {
+    color: rgb(43, 164, 43);
+    font-size: 50px;
+}
+
+.pin {
+    color: rgb(189, 41, 41);
+    font-size: 50px;
+}
+
+.li {
+    color: rgb(82, 82, 225);
+    font-size: 50px;
+}
+
+#previous {
+    float: right;
+    margin: 20px;
+
+
+}
+
+#next {
+    float: left;
+    margin: 20px;
+
+}
+
+button {
+    background-color: #45a049;
+    color: #272626;
+    font-size: 25px;
+    margin-top: 60px;
+
+}
+
+.footer {
+    background-color: goldenrod;
+    color: #272626;
+    margin-top: 150px;
+    width: 100%;
+    text-align: center;
+}
